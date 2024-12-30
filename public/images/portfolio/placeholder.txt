@@ -1,0 +1,5 @@
+These are placeholder images. Please replace them with actual project screenshots:
+
+/images/portfolio/surf-school.jpg
+/images/portfolio/resort.jpg
+/images/portfolio/cafe.jpg
